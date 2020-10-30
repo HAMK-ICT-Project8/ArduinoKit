@@ -1,0 +1,15 @@
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.sln
+*.cachefile
+*.xcodeproj

@@ -2,8 +2,9 @@
 Arduino Plugin for Unreal Engine.
 
 >This code is copied from https://bitbucket.org/danielvmacedo/arduinokitue4/src/master/.  
->**All Credits to him**.  
->Initial release notes: https://forums.unrealengine.com/community/community-content-tools-and-tutorials/91168-free-arduinokit-cross-platform-arduino-plugin-for-ue4
+>**All Credits to him**.
+
+[Initial release notes](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/91168-free-arduinokit-cross-platform-arduino-plugin-for-ue4)
 
 Because this plugin was not working with the newest Version I've updated the code to work with the newest unrealengine version (4.25).
 

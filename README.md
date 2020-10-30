@@ -3,7 +3,7 @@ Arduino Plugin for Unreal Engine.
 
 >This code is copied from https://bitbucket.org/danielvmacedo/arduinokitue4/src/master/. All Credits to him.
 
-Because this plugin was not working with the newest Version I've updated the code.
+Because this plugin was not working with the newest Version I've updated the code to work with the newest unrealengine version (4.25).
 
 ## How to use it
 Download the code and copy the ArduinoKit folder into the Plugins folder inside your UnrealEngine Project. (You may have to create the folder first).
@@ -19,3 +19,12 @@ Download the code and copy the ArduinoKit folder into the Plugins folder inside 
 7. Open the plugins menu from (edit/plugins) and click ArduinoKit
 8. Activate it from there (you might need to restart once again)
 9. Use it
+
+## Works with
+
+### Tested & Confirmed
+- MacOS Catalina, UE4.25 & Arduino Uno
+
+### Should work
+- Windows
+- Linux

@@ -27,7 +27,7 @@ Download the code and copy the ArduinoKit folder into the Plugins folder inside 
 
 ### Tested & Confirmed
 - MacOS Catalina, UE4.25 & Arduino Uno
+- Void Linux, UE4.25 & Raspberry Pi 4
 
 ### Should work
 - Windows
-- Linux
